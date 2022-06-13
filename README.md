@@ -10,11 +10,12 @@
 
 #### 2.
 
-#### \(n+(n-1)+(n-2)+(n-3)+...+1\) 
-### \([n*(n+1)] \over 2\)
+$$n+(n-1)+(n-2)+(n-3)+...+1$$
+$$[n*(n+1)] \over 2$$
 
-### \((n^2+2) \over 2\) 
-#### \(n^2\) is dominant factor. 
+$$(n^2+2) \over 2$$
+\(n^2\) is dominant factor. 
+
 Time Complexity = \(O(n^2)\)
 
 #### 3.
