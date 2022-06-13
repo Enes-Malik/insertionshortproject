@@ -13,7 +13,7 @@ $$ n+(n-1)+(n-2)+(n-3)+...+1 $$
 $$ [n*(n+1)] \over 2 $$ 
 $$ (n^2+2) \over 2 $$ 
 $$ n^2 is dominant factor. $$ 
-$$ Time Complexity = O(n^2) $$
+Time Complexity = O(n^2)
 
 #### 3.
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
